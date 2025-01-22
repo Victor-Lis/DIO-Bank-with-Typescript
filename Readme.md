@@ -43,3 +43,6 @@ Idealizado por [Nathally Souza](https://github.com/nathyts) | Desenvolvido por [
   - Impossibilita de pegar novos empréstimos enquanto a dívida está ativa
   - Caso seja pago a mais do que a dívida, o restante é depositado
   - Caso seja pago menos que dívida, apenas é descontado
+
+#### Aula
+[Clique aqui!](https://web.dio.me/lab/construindo-o-dio-bank/learning/fa6b3fce-5c74-48d6-a678-14afad858ebd?back=/track/formacao-typescript-fullstack-developer)
